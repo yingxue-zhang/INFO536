@@ -53,7 +53,6 @@ Setup information could also be found in the [slides](https://docs.google.com/pr
    * [Keras](https://keras.io/). Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It is easy to learn and use. If you are new to deep learning, you can try to use Keras to get started. [Naive Tutorial](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
    * [Pytorch](https://pytorch.org/tutorials/)
    * [Tensorflow](https://www.tensorflow.org/tutorials)
-   * [MxNet](https://mxnet.apache.org/)
 * Open source GPU
    * [Using GPU on Google Cloud](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
    * [Cuda set up for Linux](https://docs.google.com/document/d/1rioVwqvZCbn58a_5wqs5aT3YbRsiPXs9KmIuYhmM1gY/edit?usp=sharing)
