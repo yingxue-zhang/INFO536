@@ -1,1 +1,1 @@
-# Cifar-10 Images Classification
+# MNIST Image Classification
