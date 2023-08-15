@@ -11,7 +11,7 @@
 In this project, you will be asked to classify MNIST dataset with deep neural networks. You can build any neural nets as you want, for example, you can construct fully-connected layers, or CNNs, or both, etc.. This project should be completed in Python 3. Keras, Pytorch, and Tensorflow are recommended.
 
 ## Deliverables & Grading
-* PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
+* PDF Report (50%)
     * proposal
     * methodology
     * empirical results and evaluation
