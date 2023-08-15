@@ -1,1 +1,1 @@
-# INFO 536
+# INFO 536 Projects
