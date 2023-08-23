@@ -34,13 +34,11 @@ In this project, you will classify MNIST dataset with deep neural networks. You 
   * Report (50):
     1. Introduction & Proposal (5)
     2. Methodology (20):
-        a. Data processing (5)
-        b. Feature generation (5)
-        c. Network structure (5)
-        d. Training & validation process (5)
+        a. Network structure (10)
+        b. Training & validation process (10)
     3. Evaluation & Results (20):
         a. Training & validation results (10)
-        b. Performance comparing to your baselines (maybe different network structure) (5)
+        b. Performance comparing to your baselines (maybe different network structures) (5)
         c. Hyperparameter (learning rate, dropout, activation) (5)
     4. Conclusion (5)
 
