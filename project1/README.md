@@ -2,13 +2,13 @@
 # MNIST Image Classification
 
 #### Due Date
-* Thursday Sep 7, 2023 (23:59)
+* Sunday Sep 17, 2023 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
 
 ## Goal
-In this project, you will be asked to classify MNIST dataset with deep neural networks. You can build any neural nets as you want, for example, you can construct fully-connected layers, or CNNs, or both, etc.. This project should be completed in Python 3. Keras, Pytorch, and Tensorflow are recommended.
+In this project, you will classify MNIST dataset with deep neural networks. You can build any neural nets as you want, for example, you can construct fully-connected layers, or CNNs, or others. This project should be completed in Python 3. Keras, Pytorch, and Tensorflow are recommended.
 
 ## Deliverables & Grading
 * PDF Report (50%)
