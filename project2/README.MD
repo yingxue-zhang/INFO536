@@ -1,7 +1,7 @@
 # Individual Project 2
 # Classification with Deep Learning
 #### Due Date
-* Thursday Sep 28, 2023 (23:59)
+* Tuesday Oct 3, 2023 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
