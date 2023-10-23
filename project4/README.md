@@ -10,8 +10,6 @@
 ## Goal
 In this assignment you will implement a Conditional Generative Adversarial Networks (cGAN) with [MNIST data set](http://yann.lecun.com/exdb/mnist/). This project will be completed in Python 3 using [Keras](https://keras.io/). 
 
-<img src="https://github.com/yanhuata/DS504CS586-S20/blob/master/project3/pic/goal.png" width="80%">
-
 
 ## Project Guidelines
 
@@ -31,7 +29,7 @@ You are allowed to use any deep learning package, such as Tensorflow, Pytorch, e
 
 
 
-#### Training GAN
+#### Training cGAN
 
 You have the option of changing how many epochs to train your model for and how large your batch size is. 
 
@@ -42,9 +40,9 @@ You have the option of changing how many epochs to train your model for and how 
 Please generate some sample images for each digit (we provide and example as below). Please also plot the training loss for both generator and discriminator (an example as below).
 
 Examples:
-<img src="https://github.com/yingxue-zhang/INFO536/project3/results.png" width="80%">
+<img src="https://github.com/yingxue-zhang/INFO536/blob/main/project4/results.png" width="80%">
 
-<img src="https://github.com/yingxue-zhang/INFO536/project3/loss.png" width="80%">
+<img src="https://github.com/yingxue-zhang/INFO536/blob/main/project4/loss.png" width="80%">
 
 
 ## Deliverables
