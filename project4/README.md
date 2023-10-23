@@ -40,6 +40,7 @@ You have the option of changing how many epochs to train your model for and how 
 Please generate some sample images for each digit (we provide and example as below). Please also plot the training loss for both generator and discriminator (an example as below).
 
 Examples:
+
 <img src="https://github.com/yingxue-zhang/INFO536/blob/main/project4/results.png" width="80%">
 
 <img src="https://github.com/yingxue-zhang/INFO536/blob/main/project4/loss.png" width="80%">
